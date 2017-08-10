@@ -234,7 +234,7 @@ div.panel {
 }
 
 .profile {
-    position: fixed;
+    position: relative;
     float:right;
     border-radius: 50%;
 }
