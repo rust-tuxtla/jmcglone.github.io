@@ -233,11 +233,7 @@ div.panel {
     display: none;
 }
 
-.profiler {
+.profile {
     float:right;
-    border-radius: 50%;
-}
-.profilel {
-    float:left;
     border-radius: 50%;
 }
