@@ -234,6 +234,6 @@ div.panel {
 }
 
 .profile {
-    vertical-align:middle;
+    float:right;
     border-radius: 50%;
 }
