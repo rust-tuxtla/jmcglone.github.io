@@ -234,6 +234,15 @@ button.accordion.active, button.accordion:hover {
     background-color: #ddd;
 }
 
+button.accordion::after {
+    content: '\002B';
+    font-size: 13px;
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
 /* Style the accordion panel. Note: hidden by default */
 div.panel {
     padding: 0 18px;
